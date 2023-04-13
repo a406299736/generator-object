@@ -1,0 +1,15 @@
+{
+    "name": "a406299736/generator-object",
+    "description": "对象生成器",
+    "autoload": {
+        "psr-4": {
+            "A406299736\\GeneratorObject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jins"
+        }
+    ],
+    "require": {}
+}
